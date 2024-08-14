@@ -1,0 +1,51 @@
+/* *
+{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family: "General Sans";
+color:#000;
+}
+html,body
+{
+width:100%;
+height:100%;
+}
+#main
+{
+    width: 30%;
+    height: 10px;
+    height: 100vh;
+    overflow-x: hidden
+}
+#slider
+{
+    width: 30%;
+    overflow-x: hidden;
+    background-color: red;
+    padding: 3vw 0 ;
+}
+.container
+{
+    padding: 1vw 1vw;
+    display: flex;
+}
+.elem
+{
+    width: fit-content;
+    padding: 1.5w;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+#gola
+{
+    width: 2.5vw;
+    height: 2.5vw;
+    background-color: green;
+    border-radius: 5vw;
+}
+button
+{
+    padding: 1vw 3vw;
+} */
